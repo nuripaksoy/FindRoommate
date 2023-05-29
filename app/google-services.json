@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306816043604",
+    "project_id": "findroommate-9c49a",
+    "storage_bucket": "findroommate-9c49a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306816043604:android:5f270bb995272698aafbc1",
+        "android_client_info": {
+          "package_name": "com.example.findroommate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306816043604-0b6em9s139dg0ai2k0v04lhmb0gjh0t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC5rkME1z6nCYIdo73HmIojIoeByIMmjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306816043604-0b6em9s139dg0ai2k0v04lhmb0gjh0t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
